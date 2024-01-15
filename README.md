@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrafulhiderjayed&label=Profile%20views&color=0e75b6&style=flat" alt="ashrafulhiderjayed" /> </p>
 
-- 🌱 I’m currently learning **React.js, Express.js**
+- 🌱 I’m currently working on **Next.js, Express.js**
 
 - 💬 Ask me about **MERN Stack**
 
