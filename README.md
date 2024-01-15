@@ -1,7 +1,7 @@
 [![MasterHead](https://img.freepik.com/free-vector/frontend-developer-typographic-header-website-interface-design-improvement-web-page-programming-coding-testing-it-profession-isolated-flat-vector-illustration_613284-304.jpg?w=1380&t=st=1663425502~exp=1663426102~hmac=b5ecc0b2b58be505565f776163cd5ecdb86298ee6c825cf1495bc96b626bc20b)
 
 <h1 align="center">Hi 👋, I'm Ashraful Hider Jaed</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrafulhiderjayed&label=Profile%20views&color=0e75b6&style=flat" alt="ashrafulhiderjayed" /> </p>
