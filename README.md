@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/blogging-concept-illustration_114360-1038.jpg?w=740&t=st=1706004390~exp=1706004990~hmac=83e740774bf6e11da87f1c8c958c85fe77ea8041221c13a444277f2b432f36d3)
+[![MasterHead](https://i.ibb.co/Kq3wS8V/office-932926-1280.jpg)
 
 <h1 align="center">Hi 👋, I'm Ashraful Hider Jaed</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
